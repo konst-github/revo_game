@@ -10,5 +10,6 @@ F.e. command sequence can be: MMRRMMLLMMRRMM
 
 C#/NUnit
 
+[Screenshot](images/1.png)
 =================
 
