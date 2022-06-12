@@ -1,0 +1,15 @@
+E:\__TEST_TASKS__\revo_game-main\RevoGame\obj\Debug\netcoreapp3.1\revogame.csproj.AssemblyReference.cache
+E:\__TEST_TASKS__\revo_game-main\RevoGame\obj\Debug\netcoreapp3.1\revogame.GeneratedMSBuildEditorConfig.editorconfig
+E:\__TEST_TASKS__\revo_game-main\RevoGame\obj\Debug\netcoreapp3.1\revogame.AssemblyInfoInputs.cache
+E:\__TEST_TASKS__\revo_game-main\RevoGame\obj\Debug\netcoreapp3.1\revogame.AssemblyInfo.cs
+E:\__TEST_TASKS__\revo_game-main\RevoGame\obj\Debug\netcoreapp3.1\revogame.csproj.CoreCompileInputs.cache
+E:\__TEST_TASKS__\revo_game-main\RevoGame\bin\Debug\netcoreapp3.1\revogame.exe
+E:\__TEST_TASKS__\revo_game-main\RevoGame\bin\Debug\netcoreapp3.1\revogame.deps.json
+E:\__TEST_TASKS__\revo_game-main\RevoGame\bin\Debug\netcoreapp3.1\revogame.runtimeconfig.json
+E:\__TEST_TASKS__\revo_game-main\RevoGame\bin\Debug\netcoreapp3.1\revogame.runtimeconfig.dev.json
+E:\__TEST_TASKS__\revo_game-main\RevoGame\bin\Debug\netcoreapp3.1\revogame.dll
+E:\__TEST_TASKS__\revo_game-main\RevoGame\bin\Debug\netcoreapp3.1\revogame.pdb
+E:\__TEST_TASKS__\revo_game-main\RevoGame\bin\Debug\netcoreapp3.1\nunit.framework.dll
+E:\__TEST_TASKS__\revo_game-main\RevoGame\obj\Debug\netcoreapp3.1\revogame.dll
+E:\__TEST_TASKS__\revo_game-main\RevoGame\obj\Debug\netcoreapp3.1\revogame.pdb
+E:\__TEST_TASKS__\revo_game-main\RevoGame\obj\Debug\netcoreapp3.1\revogame.genruntimeconfig.cache

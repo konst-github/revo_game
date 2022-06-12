@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "As/bBnzqJLElKbV7tsaxtZB3jjr+rfgv5nKym+/aX/qTesraozoq+yAYAbYIkQclaaEfLxQDEHMxsQyeNk3egA==",
+  "success": true,
+  "projectFilePath": "E:\\__TEST_TASKS__\\revo_game-main\\RevoGame\\revogame.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\kosti\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\kosti\\.nuget\\packages\\netstandard.library\\2.0.0\\netstandard.library.2.0.0.nupkg.sha512",
+    "C:\\Users\\kosti\\.nuget\\packages\\nunit\\3.13.1\\nunit.3.13.1.nupkg.sha512"
+  ],
+  "logs": []
+}
